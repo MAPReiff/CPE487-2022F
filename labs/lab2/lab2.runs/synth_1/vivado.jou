@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Sep 22 12:49:49 2022
+# Process ID: 12725
+# Current directory: /home/mreiff/Documents/CPE-487/labs/lab2/lab2.runs/synth_1
+# Command line: vivado -log half_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source half_adder.tcl
+# Log file: /home/mreiff/Documents/CPE-487/labs/lab2/lab2.runs/synth_1/half_adder.vds
+# Journal file: /home/mreiff/Documents/CPE-487/labs/lab2/lab2.runs/synth_1/vivado.jou
+# Running On: luffy, OS: Linux, CPU Frequency: 1432.200 MHz, CPU Physical cores: 8, Host memory: 11875 MB
+#-----------------------------------------------------------
+source half_adder.tcl -notrace
