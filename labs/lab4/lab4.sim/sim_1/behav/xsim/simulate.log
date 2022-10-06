@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Error: end of test
+Time: 80 ns  Iteration: 0  Process: /testbench_full_adder/line__45  File: /home/mreiff/Documents/CPE-487/labs/lab3/lab3.srcs/sim_1/new/full_adder_tb.vhd
