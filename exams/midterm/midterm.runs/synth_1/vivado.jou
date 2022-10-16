@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Oct 16 17:29:04 2022
+# Process ID: 46963
+# Current directory: /home/mreiff/Documents/CPE487-2022F/exams/midterm/midterm.runs/synth_1
+# Command line: vivado -log midterm.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source midterm.tcl
+# Log file: /home/mreiff/Documents/CPE487-2022F/exams/midterm/midterm.runs/synth_1/midterm.vds
+# Journal file: /home/mreiff/Documents/CPE487-2022F/exams/midterm/midterm.runs/synth_1/vivado.jou
+# Running On: starship, OS: Linux, CPU Frequency: 4093.398 MHz, CPU Physical cores: 16, Host memory: 33605 MB
+#-----------------------------------------------------------
+source midterm.tcl -notrace

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="midterm_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="midterm_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="125.801 ns"></ZoomEndTime>
+      <Cursor1Time time="0.003 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="120"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject type="logic" fp_name="/midterm_tb/D3">
+      <obj_property name="ElementShortName">D3</obj_property>
+      <obj_property name="ObjectShortName">D3</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/midterm_tb/D2">
+      <obj_property name="ElementShortName">D2</obj_property>
+      <obj_property name="ObjectShortName">D2</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/midterm_tb/D1">
+      <obj_property name="ElementShortName">D1</obj_property>
+      <obj_property name="ObjectShortName">D1</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/midterm_tb/D0">
+      <obj_property name="ElementShortName">D0</obj_property>
+      <obj_property name="ObjectShortName">D0</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/midterm_tb/y">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/midterm_tb/x">
+      <obj_property name="ElementShortName">x</obj_property>
+      <obj_property name="ObjectShortName">x</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/midterm_tb/V">
+      <obj_property name="ElementShortName">V</obj_property>
+      <obj_property name="ObjectShortName">V</obj_property>
+   </wvobject>
+</wave_config>
