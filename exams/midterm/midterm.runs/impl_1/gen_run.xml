@@ -1,84 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1665957025">
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1665978929">
   <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
   <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
   <File Type="POSTROUTE-PHYSOPT-RQS" Name="midterm_postroute_physopted.rqs"/>
   <File Type="ROUTE-RQS" Name="midterm_routed.rqs"/>
-  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
-  <File Type="BG-DRC" Name="midterm.drc"/>
-  <File Type="BG-BGN" Name="midterm.bgn"/>
-  <File Type="BITSTR-SYSDEF" Name="midterm.sysdef"/>
-  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
-  <File Type="BITSTR-LTX" Name="midterm.ltx"/>
   <File Type="RBD_FILE" Name="midterm.rbd"/>
   <File Type="NPI_FILE" Name="midterm.npi"/>
   <File Type="RNPI_FILE" Name="midterm.rnpi"/>
   <File Type="CFI_FILE" Name="midterm.cfi"/>
   <File Type="RCFI_FILE" Name="midterm.rcfi"/>
-  <File Type="RDI-RDI" Name="midterm.vdi"/>
-  <File Type="PDI-FILE" Name="midterm.pdi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="midterm_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="midterm_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="midterm_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="midterm_methodology_drc_routed.rpt"/>
+  <File Type="PLACE-IO" Name="midterm_io_placed.rpt"/>
+  <File Type="OPT-DRC" Name="midterm_drc_opted.rpt"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="midterm.ltx"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="midterm_postroute_physopt_bb.dcp"/>
+  <File Type="BITSTR-SYSDEF" Name="midterm.sysdef"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="midterm_postroute_physopt.dcp"/>
   <File Type="BITSTR-MMI" Name="midterm.mmi"/>
   <File Type="BITSTR-BMM" Name="midterm_bd.bmm"/>
-  <File Type="BITSTR-NKY" Name="midterm.nky"/>
-  <File Type="BITSTR-RBT" Name="midterm.rbt"/>
-  <File Type="BITSTR-MSK" Name="midterm.msk"/>
-  <File Type="BG-BIN" Name="midterm.bin"/>
+  <File Type="PHYSOPT-DCP" Name="midterm_physopt.dcp"/>
+  <File Type="PLACE-UTIL-PB" Name="midterm_utilization_placed.pb"/>
+  <File Type="BG-BGN" Name="midterm.bgn"/>
+  <File Type="OPT-DCP" Name="midterm_opt.dcp"/>
+  <File Type="OPT-HWDEF" Name="midterm.hwdef"/>
   <File Type="BG-BIT" Name="midterm.bit"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="midterm_bus_skew_postroute_physopted.rpx"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="midterm_bus_skew_postroute_physopted.pb"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="midterm_bus_skew_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="midterm_timing_summary_postroute_physopted.rpx"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="midterm_timing_summary_postroute_physopted.pb"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="midterm_timing_summary_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="midterm_postroute_physopt_bb.dcp"/>
-  <File Type="POSTROUTE-PHYSOPT-DCP" Name="midterm_postroute_physopt.dcp"/>
-  <File Type="ROUTE-BUS-SKEW-RPX" Name="midterm_bus_skew_routed.rpx"/>
-  <File Type="ROUTE-BUS-SKEW-PB" Name="midterm_bus_skew_routed.pb"/>
   <File Type="ROUTE-BUS-SKEW" Name="midterm_bus_skew_routed.rpt"/>
-  <File Type="ROUTE-CLK" Name="midterm_clock_utilization_routed.rpt"/>
-  <File Type="ROUTE-SIMILARITY" Name="midterm_incremental_reuse_routed.rpt"/>
-  <File Type="ROUTE-TIMING-RPX" Name="midterm_timing_summary_routed.rpx"/>
-  <File Type="ROUTE-TIMING-PB" Name="midterm_timing_summary_routed.pb"/>
-  <File Type="ROUTE-TIMINGSUMMARY" Name="midterm_timing_summary_routed.rpt"/>
-  <File Type="ROUTE-STATUS-PB" Name="midterm_route_status.pb"/>
-  <File Type="ROUTE-STATUS" Name="midterm_route_status.rpt"/>
-  <File Type="ROUTE-PWR-RPX" Name="midterm_power_routed.rpx"/>
-  <File Type="ROUTE-PWR-SUM" Name="midterm_power_summary_routed.pb"/>
-  <File Type="ROUTE-PWR" Name="midterm_power_routed.rpt"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="midterm_methodology_drc_routed.pb"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="midterm_methodology_drc_routed.rpx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC" Name="midterm_methodology_drc_routed.rpt"/>
-  <File Type="ROUTE-DRC-RPX" Name="midterm_drc_routed.rpx"/>
-  <File Type="ROUTE-DRC-PB" Name="midterm_drc_routed.pb"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="PA-TCL" Name="midterm.tcl"/>
+  <File Type="REPORTS-TCL" Name="midterm_reports.tcl"/>
+  <File Type="PLACE-UTIL" Name="midterm_utilization_placed.rpt"/>
+  <File Type="BG-DRC" Name="midterm.drc"/>
+  <File Type="PLACE-CTRL" Name="midterm_control_sets_placed.rpt"/>
+  <File Type="PDI-FILE" Name="midterm.pdi"/>
+  <File Type="RDI-RDI" Name="midterm.vdi"/>
+  <File Type="BG-BIN" Name="midterm.bin"/>
+  <File Type="PLACE-DCP" Name="midterm_placed.dcp"/>
+  <File Type="BITSTR-MSK" Name="midterm.msk"/>
+  <File Type="PWROPT-DCP" Name="midterm_pwropt.dcp"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="midterm_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BITSTR-RBT" Name="midterm.rbt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="midterm_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-NKY" Name="midterm.nky"/>
   <File Type="ROUTE-DRC" Name="midterm_drc_routed.rpt"/>
-  <File Type="ROUTE-BLACKBOX-DCP" Name="midterm_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC-PB" Name="midterm_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="midterm_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="midterm_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="midterm_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="midterm_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="midterm_route_status.pb"/>
   <File Type="ROUTE-DCP" Name="midterm_routed.dcp"/>
   <File Type="ROUTE-ERROR-DCP" Name="midterm_routed_error.dcp"/>
-  <File Type="PHYSOPT-TIMING" Name="midterm_timing_summary_physopted.rpt"/>
-  <File Type="PHYSOPT-DRC" Name="midterm_drc_physopted.rpt"/>
-  <File Type="PHYSOPT-DCP" Name="midterm_physopt.dcp"/>
-  <File Type="POSTPLACE-PWROPT-TIMING" Name="midterm_timing_summary_postplace_pwropted.rpt"/>
-  <File Type="POSTPLACE-PWROPT-DCP" Name="midterm_postplace_pwropt.dcp"/>
-  <File Type="PLACE-TIMING" Name="midterm_timing_summary_placed.rpt"/>
-  <File Type="PLACE-PRE-SIMILARITY" Name="midterm_incremental_reuse_pre_placed.rpt"/>
-  <File Type="PLACE-SIMILARITY" Name="midterm_incremental_reuse_placed.rpt"/>
-  <File Type="PLACE-CTRL" Name="midterm_control_sets_placed.rpt"/>
-  <File Type="PLACE-UTIL-PB" Name="midterm_utilization_placed.pb"/>
-  <File Type="PLACE-UTIL" Name="midterm_utilization_placed.rpt"/>
-  <File Type="PLACE-CLK" Name="midterm_clock_utilization_placed.rpt"/>
-  <File Type="PLACE-IO" Name="midterm_io_placed.rpt"/>
-  <File Type="PLACE-DCP" Name="midterm_placed.dcp"/>
-  <File Type="PWROPT-TIMING" Name="midterm_timing_summary_pwropted.rpt"/>
-  <File Type="PWROPT-DRC" Name="midterm_drc_pwropted.rpt"/>
-  <File Type="PWROPT-DCP" Name="midterm_pwropt.dcp"/>
-  <File Type="OPT-HWDEF" Name="midterm.hwdef"/>
-  <File Type="OPT-METHODOLOGY-DRC" Name="midterm_methodology_drc_opted.rpt"/>
-  <File Type="OPT-DRC" Name="midterm_drc_opted.rpt"/>
-  <File Type="OPT-DCP" Name="midterm_opt.dcp"/>
-  <File Type="OPT-TIMING" Name="midterm_timing_summary_opted.rpt"/>
-  <File Type="REPORTS-TCL" Name="midterm_reports.tcl"/>
-  <File Type="INIT-TIMING" Name="midterm_timing_summary_init.rpt"/>
-  <File Type="PA-TCL" Name="midterm.tcl"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="midterm_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="midterm_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="midterm_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="midterm_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-CLK" Name="midterm_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="midterm_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="midterm_bus_skew_routed.rpx"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/midterm.vhd">
@@ -114,9 +96,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022">
-      <Desc>Default settings for Implementation.</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022"/>
     <Step Id="init_design"/>
     <Step Id="opt_design"/>
     <Step Id="power_opt_design"/>
@@ -126,5 +106,6 @@
     <Step Id="route_design"/>
     <Step Id="post_route_phys_opt_design"/>
     <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
   </Strategy>
 </GenRun>
